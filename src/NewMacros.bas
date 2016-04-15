@@ -1,8 +1,8 @@
 Attribute VB_Name = "NewMacros"
-Sub Macro5()
+Sub BodyMacro()
 Attribute Macro5.VB_ProcData.VB_Invoke_Func = "Normal.NewMacros.Macro5"
 '
-' Macro5 Macro
+' A Body Macro
 '
 '
     Selection.WholeStory
