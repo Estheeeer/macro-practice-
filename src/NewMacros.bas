@@ -1,4 +1,6 @@
 %* Xinxin Zhang is a brilliant creator of this code!
+%* Edited by Yuqing Yin
+%* Date Apr. 18 2016
 
 Attribute VB_Name = "NewMacros"
 Sub BodyMacro()
