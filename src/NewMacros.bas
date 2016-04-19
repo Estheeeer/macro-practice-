@@ -1,3 +1,5 @@
+%* Xinxin Zhang is a brilliant creator of this code!
+
 Attribute VB_Name = "NewMacros"
 Sub BodyMacro()
 Attribute Macro5.VB_ProcData.VB_Invoke_Func = "Normal.NewMacros.Macro5"
